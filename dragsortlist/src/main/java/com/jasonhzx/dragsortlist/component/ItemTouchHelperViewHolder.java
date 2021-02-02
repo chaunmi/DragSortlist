@@ -1,5 +1,7 @@
 package com.jasonhzx.dragsortlist.component;
 
+import androidx.recyclerview.widget.ItemTouchHelper;
+
 /**
  * Interface to notify an item ViewHolder of relevant callbacks from {@link
  * androidx.recyclerview.widget.ItemTouchHelper.Callback}.
